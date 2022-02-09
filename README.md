@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-gif" src="https://www.iloveimg.com/pt/download/yj7rvnA2zgfyzcl1gwxrpwkdrjzvhzl4smqd8sy2dwcy4hyf6w7md7fyAdjy0k3g8yn1lsbjsjw8b7bxvs44z83bhvtkdp55h2sgc7vw2jwx3023nmhb0b3Ag9bncj774y761yv267pxynl8tql4mnvcckmfq06jxmb7q87y4ckgxyqh9myq/5">
+  <img align="right" alt="Rafa-gif" src="https://i0.wp.com/media.tenor.com/images/8fc9f69d9b1c02086f8795983a8eaeb0/tenor.gif">
 </div>
   
   ##

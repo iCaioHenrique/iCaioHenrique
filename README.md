@@ -1,4 +1,4 @@
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005cc9&height=120&section=header"/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaiohenrique&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaiohenrique&layout=compact&langs_count=16&theme=gotham"/>
@@ -6,10 +6,10 @@
   
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-gif" src="https://i0.wp.com/media.tenor.com/images/8fc9f69d9b1c02086f8795983a8eaeb0/tenor.gif">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="gif" src="https://i0.wp.com/media.tenor.com/images/8fc9f69d9b1c02086f8795983a8eaeb0/tenor.gif">
 </div>
   
   ##
@@ -29,4 +29,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{icaiohenrique}/count.svg" /></p> 
 <br>
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005cc9&height=120&section=footer"/>
   

@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005cc9&height=120&section=header"/>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaiohenrique&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaiohenrique&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaiohenrique&show_icons=true&theme=aura&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaiohenrique&layout=compact&langs_count=16&theme=aura"/>
 </div>
   
   <div style="display: inline_block"><br>

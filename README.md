@@ -6,7 +6,7 @@
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
   
   <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=icaiohenrique&show_icons=true&theme=aura&include_all_commits=false&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=icaiohenrique&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaiohenrique&layout=compact&langs_count=16&theme=aura"/>
 </div>
   
